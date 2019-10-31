@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/users/register
+Content-Type: application/json
+
+{"username":"puglieseweb@gmail.com","fullName":"Emanuele Pugliese","password":"test123","confirmPassword":"test123"}
+
+<> 2019-10-16T010923.201.json
+<> 2019-10-16T120620.400.html
+###
+
